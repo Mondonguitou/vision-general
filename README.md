@@ -103,12 +103,6 @@ Consulta nuestra visión y principios en:
 
 ---
 
-## 🤝 Colaboradores
-
-Lista dinámica de miembros asignados por laboratorio. Añade tu nombre y rol dentro del `README.md` del laboratorio que te corresponda o contribuye a una tabla consolidada aquí.
-
----
-
 ## 📄 Licencia
 
 Este proyecto se distribuye bajo la licencia **MIT**. Revisa el archivo [`LICENSE`](LICENSE) para más detalles.
