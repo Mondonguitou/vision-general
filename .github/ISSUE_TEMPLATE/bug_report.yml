@@ -5,13 +5,11 @@ labels: ["bug"]
 assignees: []
 
 body:
-  - type: input
-    id: title
+  - type: markdown
+    id: thanks
     attributes:
-      label: "Título"
-      placeholder: "Describe el problema en una frase"
-    validations:
-      required: true
+      value: |
+        Gracias por tomarte el tiempo de reportar un bug. Por favor, completa el siguiente formulario con la mayor cantidad de detalles posibles para ayudarnos a resolver el problema.
 
   - type: textarea
     id: steps
@@ -78,12 +76,4 @@ body:
       label: "👀 ¿Buscaste un issue similar?"
       options:
         - label: "Sí, revisé y no encontré duplicados"
-          required: true
-
-  - type: checkboxes
-    id: code_of_conduct
-    attributes:
-      label: "🏢 ¿Leíste el Código de Conducta?"
-      options:
-        - label: "Sí, he leído el Código de Conducta"
           required: true
