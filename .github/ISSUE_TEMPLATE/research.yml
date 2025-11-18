@@ -1,6 +1,6 @@
-name: "📚 Propuesta de Investigación"
+name: "💡 Propuesta de Investigación"
 description: "Proponer una tarea de investigación para explorar nuevas ideas, técnicas o enfoques relevantes para el proyecto."
-title: "[📚] Propuesta: <título descriptivo>"
+title: "[💡] Propuesta: <título descriptivo>"
 labels:
   - question
   - help wanted
