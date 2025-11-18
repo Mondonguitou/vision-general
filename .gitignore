@@ -214,3 +214,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# EEG
+preproc/data/raw/
+preproc/data/processed/
+*.edf
+*.fif
+*.set
