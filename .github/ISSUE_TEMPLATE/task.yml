@@ -1,6 +1,6 @@
 name: 🧪 Task
 description: Crea una tarea para el laboratorio (preproc, neuro, models o interp)
-title: "[TASK] "
+title: "[TASK] <título breve de la tarea>"
 labels: ["enhancement"]
 assignees: []
 

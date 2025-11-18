@@ -1,6 +1,6 @@
 name: 🐛 Bug Report
 description: Reporta un problema o comportamiento inesperado
-title: "[BUG] "
+title: "[BUG] <descripcion rápida del bug>"
 labels: ["bug"]
 assignees: []
 

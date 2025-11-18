@@ -1,5 +1,6 @@
 name: "❓ Question"
 description: "Haz una pregunta relacionada con el proyecto, la arquitectura, el código o el uso del repositorio."
+title: "[Question] <título breve de la pregunta>"
 labels: ["question"]
 body:
   - type: markdown

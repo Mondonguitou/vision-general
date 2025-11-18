@@ -1,6 +1,7 @@
 name: "📚 Documentation Issue"
 description: "Reporta errores, faltantes o mejoras necesarias en la documentación del proyecto."
 labels: ["documentation"]
+title: "[Documentation] <título descriptivo>"
 body:
   - type: markdown
     attributes:
