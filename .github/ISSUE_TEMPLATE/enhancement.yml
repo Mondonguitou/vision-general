@@ -1,6 +1,6 @@
-name: "🚀 Feature Request"
+name: "🚀 Propuesta de feature"
 description: "Sugerir una nueva característica o mejora para el proyecto."
-title: "[Enhancement]: <título breve de la propuesta>"
+title: "[🚀] Propuesta: <título breve de la propuesta>"
 labels: ["enhancement"]
 body:
   - type: markdown

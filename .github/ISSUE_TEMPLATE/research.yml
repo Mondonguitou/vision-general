@@ -1,6 +1,6 @@
-name: "📚 Research Task"
-description: "Template para issues relacionados con investigación científica, revisión de literatura, propuestas experimentales o análisis técnico."
-title: "[Research] <título descriptivo>"
+name: "📚 Propuesta de Investigación"
+description: "Proponer una tarea de investigación para explorar nuevas ideas, técnicas o enfoques relevantes para el proyecto."
+title: "[📚] Propuesta: <título descriptivo>"
 labels:
   - question
   - help wanted
@@ -34,7 +34,7 @@ body:
     id: tasks
     attributes:
       label: 📝 Tareas a Realizar
-      description: Lista las acciones necesarias para completar esta investigación.
+      description: Lista las acciones conceptuales necesarias para completar esta investigación.
       placeholder: |
         - Leer y resumir papers relacionados
         - Revisar benchmarks existentes
@@ -55,7 +55,7 @@ body:
     id: deliverables
     attributes:
       label: 📦 Entregables Esperados
-      description: ¿Qué debe entregar la persona asignada?
+      description: ¿Qué se espera obtener al finalizar la investigación? (Conceptualmente)
       placeholder: |
         - Resumen en markdown en /docs/research/<topic>.md
         - Recomendación final con análisis crítico
